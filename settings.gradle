@@ -1,0 +1,2 @@
+rootProject.name='P07-SMS Retriever'
+include ':app'
